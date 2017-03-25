@@ -6,6 +6,15 @@
          "name": "East Branch",
          "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
       },
+      
+      
+       {
+         "author": "Tom Wellington",
+         "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv87/dope_walls_v87_10.png",
+         "name": "East Branch",
+         "thumbnail": "https://raw.githubusercontent.com/viztushar/Urban/master/thub/dope_walls_v87_10_thub.png"
+      },
+
       {
          "author": "Tom Wellington",
          "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
